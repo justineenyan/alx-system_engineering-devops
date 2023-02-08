@@ -1,1 +1,1 @@
-shell script
+My first shell repository
