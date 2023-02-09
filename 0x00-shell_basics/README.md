@@ -4,3 +4,4 @@ Display the contents list of your current directory
 Display current directory contents in a long format
 Display current directory contents, including hidden files
 Display current directory with group IDs
+Create a script that creates a directory inside another
