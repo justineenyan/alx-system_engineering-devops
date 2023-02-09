@@ -13,3 +13,4 @@ Back to the future
 Write a script that lists all files in multiple directories
  script that prints the type of the file 
 Create a symbolic link
+Copy only certain messages that are hidden in the current directory
