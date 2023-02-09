@@ -18,3 +18,4 @@ script that copies all the HTML files from the current working directory to the 
 script that deletes all files in the current working directory that end with the character
  Create a script that creates the directories in the current directory
  Create a script that creates the directories in the current directory
+ command that lists all the files and directories of the current directory, separated by commas
