@@ -8,3 +8,4 @@ script that creates an empty file called hello
  script that adds execution permission to all the owners
 a script that adds execution permission to all owners
  a script that sets the permission to the files
+ a script that sets the mode of a file
