@@ -15,3 +15,4 @@ Write a script that lists all files in multiple directories
 Create a symbolic link
 Copy only certain messages that are hidden in the current directory
 script that copies all the HTML files from the current working directory to the parent of the working directory
+script that deletes all files in the current working directory that end with the character
