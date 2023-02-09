@@ -11,3 +11,4 @@ Deleting a directory
 Back to the future
  a script that changes the working directory to the previous one
 Write a script that lists all files in multiple directories
+ script that prints the type of the file 
