@@ -19,3 +19,4 @@ script that deletes all files in the current working directory that end with the
  Create a script that creates the directories in the current directory
  Create a script that creates the directories in the current directory
  command that lists all the files and directories of the current directory, separated by commas
+Create a command file that acn be used to detect files
