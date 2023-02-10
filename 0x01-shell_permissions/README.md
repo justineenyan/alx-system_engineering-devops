@@ -10,3 +10,5 @@ a script that adds execution permission to all owners
  a script that sets the permission to the files
  a script that sets the mode of a file
  a script that sets the mode of the file hello the same as olleh’s mode
+a script that adds execute permission to all subdirectories and files
+Create a script that creates a directory 
