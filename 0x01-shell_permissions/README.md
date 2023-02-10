@@ -14,3 +14,4 @@ a script that adds execute permission to all subdirectories and files
 Create a script that creates a directory 
  script that changes the group owner to school for the file hello
  a script that changes the owner to vincent and the group owner to staff
+a script that changes the owner and the group owner of _hello to vincent and staff respectively.
