@@ -12,3 +12,4 @@ a shell script that creates a file
  a script that deletes all the regular files (not the directories) with a .js and it's subfolders
 a script that counts the number of directories and sub-directories in the current directory
 a script that displays the 10 newest files in the current directory.
+  a script that takes a list of words as input 
