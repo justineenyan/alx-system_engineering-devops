@@ -25,3 +25,4 @@ a script that reverse its input.
  a command that finds all empty files and directories in the current directory
 a script that lists all the files with a .gif extension
 A poem
+ a script that parses web servers logs
