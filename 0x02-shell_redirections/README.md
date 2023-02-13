@@ -7,3 +7,4 @@ Display the last 10 lines
 Display the first 10 lines of files
 a script that displays the third line of the file iacta
 a shell script that creates a file 
+ a script that writes into a file
