@@ -8,3 +8,4 @@ A script that prints global variables
 Task 8
  Arithmmetic
 indices
+numberbases
