@@ -6,3 +6,4 @@ a script that lists environment variables.
 a script that lists all local variables and environment variables, and functions.
 A script that prints global variables
 Task 8
+ Arithmmetic
