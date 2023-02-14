@@ -9,3 +9,4 @@ Task 8
  Arithmmetic
 indices
 numberbases
+Printing possible combinations
